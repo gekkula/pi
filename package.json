@@ -1,0 +1,22 @@
+{
+  "name": "pi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ip_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gekkula/pi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gekkula/pi/issues"
+  },
+  "homepage": "https://github.com/gekkula/pi#readme",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
