@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gekkula/pi#readme",
   "dependencies": {
-    "ip": "^1.1.5"
+    "ip": "^1.1.5",
+    "pigpio": "^3.3.1"
   }
 }
